@@ -78,3 +78,14 @@ A dynamic pathfinding simulation that uses graph algorithms to find safer routes
 ---
 
 ⭐ Thanks for visiting my profile!
+
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi8017&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi8017&layout=compact&theme=tokyonight" height="165" />
+</p>
+
