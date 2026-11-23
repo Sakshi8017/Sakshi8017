@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:4169E1,100:00C9A7&height=200&section=header&text=Sakshi%20Madhok&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Tech%20Enthusiast%20%7C%20Lifelong%20Learner&descSize=16&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:4169E1,100:00C9A7&height=200&section=header&text=Sakshi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Tech%20Enthusiast%20%7C%20Lifelong%20Learner&descSize=16&descAlignY=60" width="100%"/>
 
 # 👋 Hey, I'm Sakshi!
 
