@@ -1,57 +1,52 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:4169E1,100:00C9A7&height=200&section=header&text=Sakshi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Tech%20Enthusiast%20%7C%20Lifelong%20Learner&descSize=16&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:4169E1,100:00C9A7&height=200&section=header&text=Sakshi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=60" width="100%"/>
 
-# 👋 Hey, I'm Sakshi!
+# 👋 Hi, I'm Sakshi!
 
-### 💻 Information Science Student | Aspiring Software Engineer
+**Information Science Student | Software Development | AI/ML Enthusiast**
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&width=500&lines=Building+%26+Learning+Every+Day;Exploring+AI%2FML+%26+Cybersecurity;Turning+Ideas+Into+Projects" />
-</p>
-
-<a href="https://github.com/Sakshi8017">
-<img src="https://img.shields.io/badge/GitHub-Sakshi8017-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/sakshi67/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<a href="https://github.com/Sakshi8017"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/sakshi67/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 
 </div>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
-🎓 Third-year B.Tech Information Science student at **RV College of Engineering, Bengaluru**.
+I'm a third-year Information Science Engineering student at **RV College of Engineering, Bengaluru**, passionate about building technology-driven solutions and continuously expanding my technical skills.
 
-- 💡 Passionate about technology and problem-solving.
-- 🚀 Interested in Software Engineering, AI/ML and Cybersecurity.
-- 🧠 Practising Data Structures and Algorithms using C++.
-- 🔨 Enjoy building projects and exploring new technologies.
-- 🌱 Always curious, learning and improving.
+I enjoy exploring how software, intelligent systems, and emerging technologies can solve real-world problems. Through academic projects and hands-on experimentation, I'm developing my problem-solving and software development abilities.
+
+- 🎓 Pursuing B.Tech in Information Science Engineering.
+- 💻 Building projects using programming, web development, and IoT technologies.
+- 🧠 Strengthening my Data Structures and Algorithms skills using C++.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🔐 Interested in Cybersecurity and Software Engineering.
+- 🚀 Always eager to learn, collaborate, and turn ideas into practical solutions.
 
 ---
 
-## 💻 My Tech Universe
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 👩‍💻 Programming Languages
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,java" />
 
-### 🌐 Web Development
+### Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask,ts,vite" />
 
-### 🤖 AI / ML & Databases
+### AI / ML & Databases
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,mysql,mongodb" />
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino" />
 
 </div>
 
@@ -61,38 +56,60 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>📊 IO Insight Quest</h3>
+### 📊 IO Insight Quest
 
-An interactive dashboard for visualizing simulated disk I/O performance metrics and understanding bottlenecks.
+**I/O Bottleneck Analyzer**
+
+An interactive dashboard that visualizes simulated disk I/O performance metrics, helping demonstrate throughput, latency, utilization, and potential bottlenecks.
 
 **Tech Stack**
 
 `React` `TypeScript` `Vite` `Recharts`
 
 <a href="https://github.com/Sakshi8017/I-O-Bottleneck-Analyzer-Disk-Access-Visualizer">
-<img src="https://img.shields.io/badge/View_Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explore_Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>🧠 Exploring AI & Cybersecurity</h3>
+### ☀️ Automatic Solar Panel Cleaning System
 
-Learning to build intelligent systems and exploring practical applications of AI, machine learning and cybersecurity.
+**IoT-Based Smart Cleaning**
 
-**Current Focus**
+An IoT-based system that monitors dust accumulation on solar panels and automatically activates a water pump when dust crosses a predefined threshold. Blynk provides remote monitoring.
 
-`Python` `C++` `AI/ML` `Cybersecurity`
+**Tech Stack**
+
+`ESP32` `IoT` `Dust Sensor` `Blynk`
+
+<a href="YOUR_SOLAR_PROJECT_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Explore_Project-00A896?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 </table>
 
+### ☀️ How the Solar Cleaning System Works
+
+```mermaid
+flowchart TD
+    A["☀️ Solar Panel"] --> B["Dust Sensor"]
+    B --> C["ESP32 Controller"]
+    C --> D{"Dust above threshold?"}
+    D -->|Yes| E["Activate Relay"]
+    E --> F["Water Pump ON"]
+    F --> G["Clean Solar Panel"]
+    D -->|No| H["Continue Monitoring"]
+    C --> I["Blynk App Monitoring"]
+```
+
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -106,17 +123,16 @@ Learning to build intelligent systems and exploring practical applications of AI
 
 ---
 
-## 🎯 Currently Working On
+## 🎯 Currently Learning
 
-- 📚 Strengthening DSA and C++ fundamentals.
-- 💻 Improving software development skills.
-- 🤖 Exploring AI/ML projects.
-- 🔐 Learning cybersecurity fundamentals.
-- 🚀 Building projects for my developer portfolio.
+- Data Structures and Algorithms with C++
+- Software Development and Problem Solving
+- Artificial Intelligence and Machine Learning
+- Cybersecurity Fundamentals
 
 ---
 
-## 🌐 Let's Connect!
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -129,9 +145,7 @@ Learning to build intelligent systems and exploring practical applications of AI
 
 <br/><br/>
 
-⭐ **Thanks for visiting my profile!**
-
-*Keep learning. Keep building. Keep growing.*
+⭐ *Learning continuously. Building meaningfully. Growing every day.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:4169E1,100:6A5ACD&height=110&section=footer" width="100%"/>
 
