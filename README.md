@@ -21,7 +21,7 @@
 
 ---
 
-## 🌷 About Me
+## About Me
 
 🎓 Third-year B.Tech Information Science student at **RV College of Engineering, Bengaluru**.
 
