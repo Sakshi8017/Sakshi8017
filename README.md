@@ -93,22 +93,6 @@ An IoT-based system that monitors dust accumulation on solar panels and automati
 </tr>
 </table>
 
-### ☀️ How the Solar Cleaning System Works
-
-```mermaid
-flowchart TD
-    A["☀️ Solar Panel"] --> B["Dust Sensor"]
-    B --> C["ESP32 Controller"]
-    C --> D{"Dust above threshold?"}
-    D -->|Yes| E["Activate Relay"]
-    E --> F["Water Pump ON"]
-    F --> G["Clean Solar Panel"]
-    D -->|No| H["Continue Monitoring"]
-    C --> I["Blynk App Monitoring"]
-```
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
